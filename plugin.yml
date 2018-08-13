@@ -1,0 +1,8 @@
+﻿name: ReadyCore
+main: com.github.alwaysreadywby.readycore.ReadyCore
+version: 0.1.0dev
+author: AlwaysReadyWBY
+
+commands:
+  rcore:
+  readycore:
